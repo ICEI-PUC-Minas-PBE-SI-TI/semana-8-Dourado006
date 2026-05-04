@@ -12,16 +12,20 @@ Nesta atividade, você irá fazer exercícios de programação com o objetivo de
 
 - LISTAGEM DE TÍTULOS -
 
-![alt text](image.png)
+<img width="983" height="220" alt="image" src="https://github.com/user-attachments/assets/4af43041-e93e-4b1f-8d3b-9deee173bd3a" />
+
 
 - CÁLCULO DE MÉDIAS - 
 
-![alt text](image-1.png)
+<img width="995" height="54" alt="image" src="https://github.com/user-attachments/assets/dc5eadd4-7c72-4ed1-8af1-3a94e4881805" />
+
 
 - RESUMO DE VERIFICAÇÕES (SOME E EVERY) -
 
-![alt text](image-2.png)
+<img width="961" height="52" alt="image" src="https://github.com/user-attachments/assets/f23baf6b-3a6b-4fa4-b7b0-e2d868d1724f" />
+
 
 - PÁGINA COM O RESUMO -
 
-![alt text](image-3.png)
+<img width="1857" height="925" alt="image" src="https://github.com/user-attachments/assets/1807dade-2e23-4868-a36c-7ca05b8715df" />
+
